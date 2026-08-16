@@ -1,9 +1,10 @@
 'use client';
 
-import React from 'react';
-import { useCart } from '../../components/CartContext';
+import React, { useState } from 'react';
+import { useCart } from '@/components/CartContext';
 import Link from 'next/link';
 import Image from 'next/image';
+import UpiModal from '@/components/UpiModal';
 
 const CartPage = () => {
   const {
@@ -14,12 +15,15 @@ const CartPage = () => {
     stitchingCost
   } = useCart();
 
+  const [isUpiModalOpen, setUpiModalOpen] = useState(false);
+
   const shippingCost = 50;
   const tax = (subtotal + stitchingCost) * 0.05; // 5% GST
   const total = subtotal + stitchingCost + shippingCost + tax;
 
   return (
-    <div className="bg-gray-50 py-12">
+    <>
+      <div className="bg-gray-50 py-12">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-3xl font-bold text-center mb-8">Your Shopping Cart</h1>
         {cartItems.length === 0 ? (
@@ -72,8 +76,9 @@ const CartPage = () => {
               <div className="mt-6">
                 <h3 className="font-bold mb-3">Proceed to Payment</h3>
                 <div className="flex flex-col space-y-3">
-                  <button className="w-full bg-blue-500 text-white py-3 rounded-lg hover:bg-blue-600">Pay with UPI</button>
-                  <button className="w-full bg-gray-800 text-white py-3 rounded-lg hover:bg-gray-700">Pay with Card</button>
+                  <button onClick={() => setUpiModalOpen(true)} className="w-full bg-blue-500 text-white py-3 rounded-lg hover:bg-blue-600">
+                    Pay with UPI
+                  </button>
                   <button className="w-full bg-orange-500 text-white py-3 rounded-lg hover:bg-orange-600">Cash on Delivery (COD)</button>
                 </div>
               </div>
@@ -82,6 +87,11 @@ const CartPage = () => {
         )}
       </div>
     </div>
+    <UpiModal 
+        isOpen={isUpiModalOpen} 
+        onClose={() => setUpiModalOpen(false)} 
+      />
+    </>
   );
 };
 

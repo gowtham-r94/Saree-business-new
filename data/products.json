@@ -168,12 +168,12 @@
     ],
     "price": 50,
     "originalPrice": 81,
-    "rating": 2.9,
+    "rating": 4,
     "images": [
       "https://images.pexels.com/photos/35586011/pexels-photo-35586011.jpeg?_gl=1*mwdkny*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDU1MTckajUwJGwwJGgw"
     ],
-    "length": "4.2",
-    "description": "test",
+    "length": "4.6",
+    "description": "test 123",
     "blouseStitchingAvailable": true
   }
 ]

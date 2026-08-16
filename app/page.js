@@ -45,7 +45,7 @@ export default function HomePage() {
                 Read Our Full Story &rarr;
               </Link>
             </div>
-            <div className="h-80 w-full relative rounded-lg overflow-hidden shadow-xl">
+            <div className="aspect-[4/3] w-full relative rounded-lg overflow-hidden shadow-xl">
                <Image 
                  src="https://plus.unsplash.com/premium_photo-1781645282311-1fa50376693d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Weaver at a loom" 

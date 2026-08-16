@@ -64,7 +64,7 @@ const ModernHero = () => {
       className="relative h-screen w-full bg-editorial-cream text-charcoal-grey flex flex-col justify-center overflow-hidden"
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 h-full">
-        <div className="relative z-10 grid lg:grid-cols-2 gap-8 items-center h-full">
+        <div className="relative z-10 flex flex-col-reverse lg:grid lg:grid-cols-2 gap-8 items-center justify-center h-full">
           {/* Text Content */}
           <motion.div
             className="text-center lg:text-left"
@@ -101,25 +101,26 @@ const ModernHero = () => {
 
           {/* Image Content */}
           
-          <div className="absolute inset-0 lg:relative w-full h-full z-0 pointer-events-none lg:pointer-events-auto">
+          <div className="relative w-full h-[45vh] lg:h-full z-0 pointer-events-none lg:pointer-events-auto">
             <motion.div
-className="absolute right-0 top-1/2 -translate-y-1/2 w-full h-1/2 lg:w-[70vw] lg:h-[70vh] max-w-[640px] opacity-30 lg:opacity-100"
+              className="relative lg:absolute lg:right-0 lg:top-1/2 lg:-translate-y-1/2 w-full h-full lg:w-[70vw] lg:h-[70vh] lg:inset-auto max-w-[640px]"
                initial={{ scale: 1.2, x: '20%', opacity: 0 }}
               animate={{ scale: 1, x: 0, opacity: 1 }}
               transition={{ duration: 1.5, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
             >
               <motion.div
-                className="w-full h-full relative rounded-lg overflow-hidden"
+                className="w-full h-full relative lg:rounded-lg overflow-hidden"
                 style={{ x: imageX, y: imageY }}
               >
                 <Image
                   src="https://images.unsplash.com/photo-1711688588765-269de854959a?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Model in a contemporary saree"
                   fill
-                  sizes="(max-width: 1024px) 100vw, 45vw"
+                  sizes="(max-width: 1024px) 100vw, 70vw"
                   className="object-cover"
                   priority
                 />
+                {/* Gradient overlay for mobile readability */}
               </motion.div>
             </motion.div>
           </div>
@@ -132,7 +133,7 @@ className="absolute right-0 top-1/2 -translate-y-1/2 w-full h-1/2 lg:w-[70vw] lg
         <motion.div className="flex whitespace-nowrap" animate={{ x: ['0%', '-100%'] }} transition={{ ease: 'linear', duration: 30, repeat: Infinity }}>
           {[...Array(4)].map((_, i) => (
             <span key={i} className="px-8 text-sm tracking-wider">
-              Heritage Meets Modernity • Autumn Collection '2026
+              Our journey began with a simple yet profound love for the timeless elegance of the Indian saree.
             </span>
           ))}
         </motion.div>
