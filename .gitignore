@@ -1,0 +1,13 @@
+node_modules
+.next
+# Local environment variables (API keys, passwords, database URLs)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
+

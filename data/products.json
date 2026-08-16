@@ -1,0 +1,160 @@
+[
+  {
+    "id": "1",
+    "slug": "kanjeevaram-silk-saree-red",
+    "title": "Kanjeevaram Silk Saree - Ruby Red",
+    "fabric": "Kanjeevaram Silk",
+    "weave": "Handloom",
+    "occasion": [
+      "Wedding",
+      "Festive",
+      "Casual"
+    ],
+    "price": 35000,
+    "originalPrice": 42000,
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": true,
+    "length": "6.3m including blouse",
+    "description": "Exquisite ruby red Kanjeevaram silk saree with intricate gold Zari work, perfect for grand occasions. Handwoven by skilled artisans, it embodies traditional South Indian craftsmanship."
+  },
+  {
+    "id": "2",
+    "slug": "banarasi-silk-saree-royal-blue",
+    "title": "Banarasi Silk Saree - Royal Blue",
+    "fabric": "Banarasi Silk",
+    "weave": "Powerloom",
+    "occasion": [
+      "Wedding"
+    ],
+    "price": 28000,
+    "originalPrice": 33000,
+    "rating": 4.7,
+    "images": [
+      "https://images.pexels.com/photos/29026116/pexels-photo-29026116.jpeg?_gl=1*6e6zrp*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDUyNTckajE5JGwwJGgw",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583391733975-d227b68147d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": true,
+    "length": "6.3m including blouse",
+    "description": "A stunning royal blue Banarasi silk saree, adorned with delicate floral motifs and rich borders. A timeless piece that adds grace to any traditional event."
+  },
+  {
+    "id": "3",
+    "slug": "organza-floral-saree-pastel-green",
+    "title": "Organza Floral Saree - Pastel Green",
+    "fabric": "Organza",
+    "weave": "Machine",
+    "occasion": [
+      "Casual"
+    ],
+    "price": 9500,
+    "originalPrice": 11000,
+    "rating": 4.5,
+    "images": [
+      "https://images.pexels.com/photos/17113983/pexels-photo-17113983.jpeg?_gl=1*1y48u5s*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDUyMzYkajQwJGwwJGgw",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": false,
+    "length": "5.5m without blouse",
+    "description": "Light and airy pastel green organza saree with elegant floral prints, ideal for a chic and contemporary look. Perfect for casual outings or summer parties."
+  },
+  {
+    "id": "4",
+    "slug": "chanderi-cotton-saree-beige",
+    "title": "Chanderi Cotton Saree - Elegant Beige",
+    "fabric": "Chanderi Cotton",
+    "weave": "Handloom",
+    "occasion": [
+      "Work",
+      "Casual",
+      "Day Wear"
+    ],
+    "price": 6800,
+    "originalPrice": 7500,
+    "rating": 4.6,
+    "images": [
+      "https://images.pexels.com/photos/38850343/pexels-photo-38850343.jpeg?_gl=1*nltb9h*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDUzODAkajUwJGwwJGgw",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": false,
+    "length": "6.2m including blouse",
+    "description": "Sophisticated beige Chanderi cotton saree with subtle Zari borders, offering comfort and style. A versatile choice for daily wear or office settings."
+  },
+  {
+    "id": "5",
+    "slug": "organza-silk-saree-pastel-green-silk",
+    "title": "Organza Silk Saree - Pastel Green Silk",
+    "fabric": "Silk",
+    "weave": "Machine",
+    "occasion": [
+      "Festival"
+    ],
+    "price": 900,
+    "originalPrice": 11000,
+    "rating": 4.5,
+    "images": [
+      "https://images.pexels.com/photos/35586011/pexels-photo-35586011.jpeg?_gl=1*mwdkny*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDU1MTckajUwJGwwJGgw",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": false,
+    "length": "5.5m without blouse",
+    "description": "Light and airy pastel green organza saree with elegant floral prints, ideal for a chic and contemporary look. Perfect for casual outings or summer parties."
+  },
+  {
+    "id": "6",
+    "slug": "organza-silk-saree-pastel-green-silk-test",
+    "title": "Organza Silk Saree - Pastel Green Silk test",
+    "fabric": "Silk",
+    "weave": "Machine",
+    "occasion": [
+      "Festival"
+    ],
+    "price": 900,
+    "originalPrice": 11000,
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+      "https://images.pexels.com/photos/35586011/pexels-photo-35586011.jpeg?_gl=1*mwdkny*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDU1MTckajUwJGwwJGgw",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": false,
+    "length": "5.5m without blouse",
+    "description": "Light and airy pastel green organza saree with elegant floral prints, ideal for a chic and contemporary look. Perfect for casual outings or summer parties."
+  },
+  {
+    "id": "7",
+    "slug": "pastel-yellow-silk-beautiful",
+    "title": "Pastel Yellow Silk beautiful",
+    "fabric": "Cotton",
+    "weave": "Machine",
+    "occasion": [
+      "Festival"
+    ],
+    "price": 9000,
+    "originalPrice": 12000,
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "inStock": true,
+    "blouseStitchingAvailable": true,
+    "length": "5.5m without blouse",
+    "description": "Light and airy pastel green organza saree with elegant floral prints, ideal for a chic and contemporary look. Perfect for casual outings or summer parties."
+  }
+]
