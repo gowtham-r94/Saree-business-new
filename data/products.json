@@ -156,5 +156,24 @@
     "blouseStitchingAvailable": true,
     "length": "5.5m without blouse",
     "description": "Light and airy pastel green organza saree with elegant floral prints, ideal for a chic and contemporary look. Perfect for casual outings or summer parties."
+  },
+  {
+    "id": "8",
+    "slug": "test",
+    "title": "Test",
+    "fabric": "Cotton",
+    "weave": "Cotton",
+    "occasion": [
+      "Festival"
+    ],
+    "price": 50,
+    "originalPrice": 81,
+    "rating": 2.9,
+    "images": [
+      "https://images.pexels.com/photos/35586011/pexels-photo-35586011.jpeg?_gl=1*mwdkny*_ga*OTg5NjgwODk5LjE3ODY2NDQ5MDU.*_ga_8JE65Q40S6*czE3ODY2NDQ5MDQkbzEkZzEkdDE3ODY2NDU1MTckajUwJGwwJGgw"
+    ],
+    "length": "4.2",
+    "description": "test",
+    "blouseStitchingAvailable": true
   }
 ]
