@@ -33,8 +33,8 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Connect With Us</h3>
             <p className="text-sm mb-4">
               Founder: Lavanya K<br/>
-              Email: info@sareeemporium.com<br/>
-              Phone: +91 98765 43210
+              Email:   lavanyakrishnan192@gmail.com<br/>
+              Phone:   +91 9486211884
             </p>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-zariGold transition-colors" aria-label="Facebook">

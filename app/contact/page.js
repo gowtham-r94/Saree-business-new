@@ -15,7 +15,7 @@ const ContactPage = () => {
             <p className="text-gray-700">
               <strong>Email:</strong> gbilla115@gmail.com <br />
               <strong>Phone:</strong> +91 9486211884 <br />
-              <strong>Address:</strong> 123 Saree Lane, Textile City, India
+              <strong>Address:</strong> 63 murugan nilliam, Palakkad road, Pollachi, Coimbatore, Tamil Nadu - 642001
             </p>
           </div>
           {/* You can add a contact form here later if needed */}
