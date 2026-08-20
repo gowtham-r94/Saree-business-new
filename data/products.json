@@ -175,5 +175,24 @@
     "length": "4.6",
     "description": "test 123",
     "blouseStitchingAvailable": true
+  },
+  {
+    "id": "9",
+    "slug": "mertinity-ware",
+    "title": "Mertinity ware",
+    "fabric": "Silk",
+    "weave": "Handloom",
+    "occasion": [
+      "Festival"
+    ],
+    "price": 20000,
+    "originalPrice": 30000,
+    "rating": 4.9,
+    "images": [
+      "https://drive.usercontent.google.com/download?id=1dE30U-3_t-jifAWSI-LWKYiICPKD5d8p&export=view&authuser=0"
+       ],
+    "length": "5.5m without blouse",
+    "description": "Embrace motherhood beautifully with our curated collection of premium maternity sarees and fusion ethnic wear. Engineered specifically for modern moms-to-be, our garments blend traditional Indian elegance with smart, functional innovations. From pre-stitched, ready-to-wear silhouettes to breathable, stretch-infused shapewear, we ensure you remain comfortable, confident, and effortless through every trimester and postpartum milestone",
+    "blouseStitchingAvailable": true
   }
 ]

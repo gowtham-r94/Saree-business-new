@@ -23,6 +23,12 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'drive.usercontent.google.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
         hostname: 'i.imgur.com',
         port: '',
         pathname: '/**',
